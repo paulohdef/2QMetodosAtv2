@@ -1,0 +1,17 @@
+{
+  "name": "atv1metodos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node topLevelStructure.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "event-stream": "^4.0.1",
+    "stream": "^0.0.2",
+    "util": "^0.12.4"
+  }
+}
